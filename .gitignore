@@ -4,3 +4,9 @@ build/
 *.a
 *.so
 hello_world
+
+# compiled executable
+src/main
+
+# macOS debug bundles
+*.dSYM
